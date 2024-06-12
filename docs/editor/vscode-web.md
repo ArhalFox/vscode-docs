@@ -1,5 +1,5 @@
 ---
-Order: 11
+Order: 12
 Area: editor
 TOCTitle: VS Code for the Web
 ContentId: d665a790-1da1-4f45-bc0f-c09822528e55
